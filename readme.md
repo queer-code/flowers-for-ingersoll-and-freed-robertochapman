@@ -15,8 +15,7 @@ The good thing is that you don't have to have a deep understanding of either of 
 
 # How to use this repo
 
-- Fork the project to your own github page and give it a new name.
-- Clone the fork to your local by entering `git clone yourUrlHere` in a terminal. You can find the url on the home page of your forked repo on github. 
+- Clone the project to your local by entering `git clone yourUrlHere` in a terminal. You can find the url on the home page of your forked repo on github. 
 - `cd  ` into the newly created folder and type `npm install` . This will download and install all the neccessary libraries.
 - Type `npm run start` . This will start a local development server at `http://localhost:8080/` (that means IP address = localhost, port = 8080).
 - open Chrome and navigate to ` http://localhost:8080/`. You should see a glorious p5.js project!
